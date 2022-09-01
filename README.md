@@ -50,7 +50,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚧 Projeto
 
-Live Preview: [Visualizar o projeto no navegador](https://music-site-page.vercel.app/)
+Live Preview: [Visualizar o projeto no navegador](https://travel-web-design-landing-page.vercel.app/)
 
 ## 🎨 Layout:
 
